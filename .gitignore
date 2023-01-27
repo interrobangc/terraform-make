@@ -1,0 +1,5 @@
+.terraform
+terraform.tfstate
+
+# Don't use this line in an actual project
+.terraform.lock.hcl
